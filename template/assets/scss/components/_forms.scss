@@ -1,0 +1,61 @@
+/* Forms */
+.input-group-append,
+.input-group-prepend {
+  background: color(white);
+  color: $input-placeholder-color;
+  width: auto;
+  border: none;
+
+  .input-group-text {
+    background: transparent;
+    border-color: $border-color;
+  }
+}
+
+.form-control {
+  border: 1px solid $border-color;
+  font-family: $type-1;
+  font-size: $input-font-size;
+  line-height: 14px;
+  padding: 0.85rem 1.2rem;
+  line-height: 14px;
+  height: auto;
+
+  &.form-control-lg {
+    padding: 1.1rem 1.2rem;
+  }
+
+  &.form-control-sm {
+    padding: $input-btn-padding-y-sm .75rem;
+  }
+}
+
+select {
+  &.form-control {
+    padding: 0.4375rem 0.75rem;
+  }
+}
+
+.form-group {
+  label {
+    font-size: $default-font-size;
+    line-height: 1;
+    vertical-align: top;
+    color: #636c72;
+  }
+
+  &.has-danger {
+    .form-control {
+      border-color: theme-color(danger);
+    }
+  }
+  .custom-control-inline{
+    @include align-items(center);
+    .custom-control-label{
+      padding-top: 10px;
+      &:before,&:after{
+        top: 10px;
+      }
+    }
+  }
+}
