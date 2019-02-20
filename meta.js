@@ -1,5 +1,5 @@
 module.exports = {
-  skipInterpolation: '**/**/*.vue',
+  skipInterpolation: ['**/**/*.vue', 'static/**'],
   helpers: {
     escape: function(value) {
       return value.replace(/'/g, '&apos;');
