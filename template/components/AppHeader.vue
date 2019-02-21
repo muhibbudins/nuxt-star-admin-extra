@@ -1,23 +1,10 @@
 <template lang="html">
   <b-navbar class="fixed-top" toggleable="md" type="dark" variant="info">
-    <b-navbar-toggle target="nav_collapse" />
     <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
       <a class="navbar-brand brand-logo" href="/"><img src="~/static/images/logo.svg" alt="logo"></a>
       <a class="navbar-brand brand-logo-mini" href="/"><img src="~/static/images/logo-mini.svg" alt="logo"></a>
     </div>
     <b-collapse id="nav_collapse" is-nav>
-      <b-navbar-nav class="header-links">
-        <b-nav-item href="#" active>
-          <i class="mdi mdi-image-filter" />Gallery
-        </b-nav-item>
-        <b-nav-item href="#">
-          <i class="mdi mdi-email-outline" />Inbox
-        </b-nav-item>
-        <b-nav-item href="#">
-          <i class="mdi mdi-calendar" />Calendar
-        </b-nav-item>
-      </b-navbar-nav>
-      <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
         <b-nav-item-dropdown right class="preview-list">
           <template slot="button-content">

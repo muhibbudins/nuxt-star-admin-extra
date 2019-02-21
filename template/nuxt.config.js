@@ -37,8 +37,7 @@ module.exports = {
   */
   css: [
     'mdi/css/materialdesignicons.min.css',
-    'flag-icon-css/css/flag-icon.min.css',
-    'font-awesome/css/font-awesome.min.css',
+    'simple-line-icons/css/simple-line-icons.css',
     {
       src: '~/assets/scss/style',
       lang: 'scss'
@@ -71,6 +70,10 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    /*
+    ** Add Vue Echarts
+    */
+    transpile: ['vue-echarts', 'resize-detector'],
     /*
     ** You can extend webpack config here
     */

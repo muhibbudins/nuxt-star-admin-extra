@@ -357,8 +357,3 @@ export default {
   }
 }
 </script>
-
-<style scoped lang="scss">
-.forms {
-}
-</style>

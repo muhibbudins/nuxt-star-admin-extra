@@ -4,6 +4,9 @@
       <div class="col-lg-12 grid-margin">
         <div class="card">
           <div class="card-body">
+            <div class="card-title">
+              <h1>MDI Icon</h1>
+            </div>
             <div class="icons-list row">
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-access-point" /> mdi mdi-access-point
@@ -79,9 +82,6 @@
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-account-star" /> mdi mdi-account-star
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-account-star-variant" /> mdi mdi-account-star-variant
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-account-switch" /> mdi mdi-account-switch
@@ -216,9 +216,6 @@
                 <i class="mdi mdi-application" /> mdi mdi-application
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-appnet" /> mdi mdi-appnet
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-apps" /> mdi mdi-apps
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
@@ -244,12 +241,6 @@
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-arrow-bottom-right" /> mdi mdi-arrow-bottom-right
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-arrow-compress" /> mdi mdi-arrow-compress
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-arrow-compress-all" /> mdi mdi-arrow-compress-all
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-arrow-down" /> mdi mdi-arrow-down
@@ -1191,9 +1182,6 @@
                 <i class="mdi mdi-cloud-outline" /> mdi mdi-cloud-outline
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-cloud-outline-off" /> mdi mdi-cloud-outline-off
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-cloud-print" /> mdi mdi-cloud-print
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
@@ -1917,9 +1905,6 @@
                 <i class="mdi mdi-flag-outline" /> mdi mdi-flag-outline
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-flag-outline-variant" /> mdi mdi-flag-outline-variant
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-flag-triangle" /> mdi mdi-flag-triangle
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
@@ -2155,9 +2140,6 @@
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-format-paragraph" /> mdi mdi-format-paragraph
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-format-quote" /> mdi mdi-format-quote
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-format-size" /> mdi mdi-format-size
@@ -2908,9 +2890,6 @@
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-marker-check" /> mdi mdi-marker-check
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-martini" /> mdi mdi-martini
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-material-ui" /> mdi mdi-material-ui
@@ -3696,13 +3675,10 @@
                 <i class="mdi mdi-ray-vertex" /> mdi mdi-ray-vertex
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-rdio" /> mdi mdi-rdio
+                <i class="mdi mdi-radio" /> mdi mdi-radio
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-read" /> mdi mdi-read
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-readability" /> mdi mdi-readability
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-receipt" /> mdi mdi-receipt
@@ -4581,12 +4557,6 @@
                 <i class="mdi mdi-undo-variant" /> mdi mdi-undo-variant
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-unfold-less" /> mdi mdi-unfold-less
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-unfold-more" /> mdi mdi-unfold-more
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-ungroup" /> mdi mdi-ungroup
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
@@ -4711,9 +4681,6 @@
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-vimeo " /> mdi mdi-vimeo
-              </div>
-              <div class="col-sm-6 col-md-4 col-lg-3">
-                <i class="mdi mdi-vine" /> mdi mdi-vine
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
                 <i class="mdi mdi-violin" /> mdi mdi-violin
@@ -4977,8 +4944,3 @@ export default {
   name: 'Icons'
 }
 </script>
-
-<style scoped lang="scss">
-.icons {
-}
-</style>

@@ -124,7 +124,12 @@
 
 <script lang="js">
 export default {
-  name: 'Paginations'
+  name: 'Paginations',
+  data() {
+    return {
+      currentPage: 1
+    }
+  }
 }
 </script>
 
