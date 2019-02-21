@@ -1,8 +1,8 @@
 {
-  "name": "name",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "description",
-  "author": "author",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
