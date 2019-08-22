@@ -46,7 +46,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.9",
-    "prettier": "1.14.3",
+    "prettier": "1.18.2",
     "sass-loader": "^7.1.0"
   }
 }
