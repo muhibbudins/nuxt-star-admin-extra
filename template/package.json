@@ -19,7 +19,7 @@
     "bootstrap-vue": "2.0.0-rc.28",
     "chart.js": "2.8.0",
     "compass-mixins": "0.12.10",
-    "cross-env": "5.2.0",
+    "cross-env": "5.2.1",
     "echarts": "4.2.1",
     "element-ui": "2.12.0",
     "express": "4.17.1",
