@@ -26,7 +26,7 @@
     "mdi": "2.2.43",
     "nuxt": "2.10.1",
     "simple-line-icons": "2.4.1",
-    "vue-chartjs": "3.4.2",
+    "vue-chartjs": "3.5.0",
     "vue-echarts": "4.0.4",
     "vue-md-date-picker": "1.0.16"
   },
