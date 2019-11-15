@@ -17,7 +17,7 @@
     "@nuxtjs/pwa": "2.6.0",
     "bootstrap": "4.3.1",
     "bootstrap-vue": "2.1.0",
-    "chart.js": "2.9.2",
+    "chart.js": "2.9.3",
     "compass-mixins": "0.12.10",
     "cross-env": "6.0.3",
     "echarts": "4.4.0",
