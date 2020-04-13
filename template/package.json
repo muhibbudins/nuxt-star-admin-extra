@@ -21,7 +21,7 @@
     "compass-mixins": "0.12.10",
     "cross-env": "7.0.2",
     "echarts": "4.7.0",
-    "element-ui": "2.13.0",
+    "element-ui": "2.13.1",
     "express": "4.17.1",
     "mdi": "2.2.43",
     "nuxt": "2.12.2",
