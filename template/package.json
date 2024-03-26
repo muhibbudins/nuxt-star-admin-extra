@@ -22,7 +22,7 @@
     "cross-env": "7.0.2",
     "echarts": "4.8.0",
     "element-ui": "2.13.2",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "mdi": "2.2.43",
     "nuxt": "2.13.0",
     "simple-line-icons": "2.4.1",
